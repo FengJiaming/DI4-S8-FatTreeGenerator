@@ -1,5 +1,10 @@
 # DI4-S8-FatTreeGenerator
 
+ASR：Réseau avancé
+
+TP1-2 
+<Etude de topologies Fat-tree Simulateur Ibsim>
+  
 
 To generate a fat tree topology with k = 4,6,8,10
 
